@@ -73,6 +73,7 @@ html,body{
     justify-content: center;
     align-items: center;
     color: white;
+    margin-top: 6px;
     height: 50px;
     width: 50px;
     background-color: rgb(67, 100, 67);
